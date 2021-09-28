@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-size: 75px;
+}
+
+.section{
+    font-size: 1000px;
+}
+html{
+    background-color:lightblue;
+}
+
+.blogs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.section1{
+    border: 2px solid gray;
+    font-size: 40px;
+}
+.section1 img {
+    width: 100%; height: 350px;
+
+}
+h2{
+text-align: center;
+font-size: 50px;
+}
+.blogs2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
